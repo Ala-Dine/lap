@@ -34,3 +34,5 @@ A simple web application to calculate Body Mass Index (BMI) and provide an inter
 
 ### **Step 1: Clone the Repository**
 ```bash
+git clone https://github.com/your-username/bmi-calculator.git
+cd bmi-calculator
